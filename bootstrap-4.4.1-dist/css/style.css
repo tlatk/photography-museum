@@ -8,3 +8,20 @@
 	top: 50%;
 	transform: translateY(-50);
 }
+
+.mt-5 {
+	margin-top: ($spacer * 3) !important;
+}
+
+.ml-2 {
+	margin-left: ($spacer * 0.25) !important;
+}
+
+.mr-3 {
+	margin-right: ($spacer * 0.5) !important;
+}
+
+
+.my-row {
+	height: 300px;
+}
