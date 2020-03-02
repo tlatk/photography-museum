@@ -6,5 +6,44 @@
 .carousel-caption {
 	position: absolute;
 	top: 50%;
-	transform: translateY(-50);
+	transform: translateY(-50%);
+}
+
+.carousel-caption h1 {
+	font-size: 500%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 15px #000; 
+}
+
+.carousel-caption h3 {
+	font-size: 200%;
+	font-weight: 500%;
+	text-shadow: 1px 1px 10px #000;
+	padding-botto,:1rem;
+}
+
+.mb-4 {
+	margin bottom: ($spacer * 1.5) !important;
+}
+
+.fa {
+	padding: 2rem;
+	font-size:4em;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+}
+
+footer{
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 2rem;
+}
+
+hr.light {
+	border-top: 1px solid #d5d5d5;
+	width: 75%;
+	margin-top: .8rem;
+	margin-bottom: 1rem;
 }
