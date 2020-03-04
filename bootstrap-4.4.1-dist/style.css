@@ -55,3 +55,33 @@ hr.light {
 	margin-top: .8rem;
 	margin-bottom: 1rem;
 }
+
+.main-form {
+	width:450px;
+	margin: auto;
+}
+
+.form-btn {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.subscribe-btn {
+	margin-bottom: 15px;
+}
+
+.about-us-padding {
+	margin-bottom: 10px;
+}
+
+.opening-hours {
+	text-align: center;
+}
+
+.opening-hours-padding {
+	margin-bottom: 10px;
+}
+
+.location-padding {
+	margin-bottom: 30px;
+}
